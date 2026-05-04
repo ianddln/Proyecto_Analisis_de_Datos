@@ -37,7 +37,15 @@ Una vez que definamos el/los enfoque(s) de nuestro(s) analisis, podremos procede
 
 A partir de aqui, lo que hagamos dependera de el enfoque del analisis, por lo cual ya no podemos planear por adelantado.
 
-#### Ideas
+#### Direccion del analisis
+
+> Ossian
+
+Se me ocurrio plantear una direccion de analisis donde nos enfocaremos en obtener insights relevantes que podamos dar a un director tecnico de una partido. 
+
+Nos centraremos en analizar y generar sugerencias del tipo de jugador a scouter, de las formacion a usar, de las mejores formas de identificar un jugador valioso, de los atributos de jugadores que mayor impacto tienen en ganar un partido, etc. El analisis entonces podra incluir observaciones hechas a travez de las diferentes ligas que se incluyen en el dataset.
+
+#### Ideas para graficos
 
 Hay que hacer minimo 8 graficos diferentes, a continuacion ponemos una lista de algunas opciones (marquen adecuadamente si ya se hizo una isntancia de dicho tipo de grafico)
 
@@ -77,29 +85,31 @@ Estaria interesante hacer mas de lo necesario. Es por eso que aqui pondre ideas 
 
 Ossian:
 
-- [ ] 
-- [ ] Plantear una direccion del analisis.
-
-Estefania:
-
-- [ ]
-- [ ] Plantear una direccion del analisis.
-
-Ian:
-
-- [ ] Documentar tabla `Match`.
-- [ ] Plantear una direccion del analisis.
-
-Karim:
-
-- [ ] Documentar las tablas:
+- [x] Plantear una direccion del analisis.
+- [x] Documentar tabla `Match`.
+- [x] Documentar las tablas:
         - `Player`
         - `Player_Attributes`
         - `Team`
         - `Team_Attributes`
         - `Country`
         - `League`
+- [ ] Hacer graficos para 4 insights
+
+Estefania:
+
 - [ ] Plantear una direccion del analisis.
+- [ ] Hacer graficos para 2 insights (de preferencia 3 pls)
+
+Ian:
+
+- [ ] Plantear una direccion del analisis.
+- [ ] Hacer graficos para 2 insights (de preferencia 3 pls)
+
+Karim:
+
+- [ ] Plantear una direccion del analisis.
+- [ ] Hacer graficos para 2 insights (de preferencia 3 pls)
 
 ## Vinculos a archivos importantes dentro de repositporio
 
