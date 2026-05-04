@@ -49,20 +49,20 @@ Nos centraremos en analizar y generar sugerencias del tipo de jugador a scouter,
 
 Hay que hacer minimo 8 graficos diferentes, a continuacion ponemos una lista de algunas opciones (marquen adecuadamente si ya se hizo una isntancia de dicho tipo de grafico)
 
-- [ ] Heatmap
-- [ ] Bubble map
-- [ ] Bar chart
-- [ ] Stacked bar chart
+- [x] Heatmap
+- [x] Bubble map
+- [x] Bar chart
+- [x] Stacked bar chart
 - [ ] Pie chart
 - [ ] Ring chart
-- [x] Boxplot
+- [ ] Boxplot
 - [ ] Time series
-- [ ] Histogram
+- [x] Histogram
 - [ ] Violin plot
 - [ ] Waffle plot
 - [ ] Bubble plot
 - [ ] Styled table
-- [ ] Scatter plot
+- [x] Scatter plot
 - [ ] Circular barplot
 - [ ] Radar chart
 
@@ -96,10 +96,12 @@ Ossian:
     - [x] df_match_base
     - [ ] ~~df_tean_match~~
 - [ ] Hacer los 4 analisis que me tocan:
-    - [x] Analisis 1: Heatmap de correlacion entre atributos de jugadores de campo
-    - [x] Analisis 2: Heatmap de correlacion entre atributos de jugadores porteros
-    - [ ] Analisis 3: Histograma del gap potencial - overall rating
-    - [ ] Analisis 4:
+    - [x] Analisis 1: Idea 01 - Heatmap de correlacion entre atributos de jugadores de campo
+    - [x] Analisis 2: Idea 02 - Heatmap de correlacion entre atributos de jugadores porteros
+    - [ ] Analisis 3: Idea 03 - Histograma del gap potencial - overall rating
+    - [ ] Analisis 4: Idea 06 - Scatterplot de jugadores con alto potencial y overall todavia moderado
+    - [ ] Analisis 5: Idea 12 - Grafico de barras apiladas de victoria/empate/derrota por formacion
+    - [ ] Analisis 6: Idea 13 - Bubble plot de formaciones: frecuencia vs rendimiento
 
 Estefania:
 
@@ -108,7 +110,10 @@ Estefania:
 Ian:
 
 - [ ] Hacer graficos para 2 insights (de preferencia 3 pls)
-
+    - [ ] Analisis 1: Idea 07 - Histograma del margen de desarrollo de los jugadores
+    - [ ] Analisis 2: Idea 08 - Grafico de barras con atributos que separan a los jugadores mas prometedores
+    - [ ] Analisis 3: extra
+ 
 Karim:
 
 - [ ] Hacer graficos para 2 insights (de preferencia 3 pls)
