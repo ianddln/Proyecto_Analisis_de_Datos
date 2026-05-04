@@ -55,7 +55,7 @@ Hay que hacer minimo 8 graficos diferentes, a continuacion ponemos una lista de 
 - [ ] Stacked bar chart
 - [ ] Pie chart
 - [ ] Ring chart
-- [ ] Boxplot
+- [x] Boxplot
 - [ ] Time series
 - [ ] Histogram
 - [ ] Violin plot
@@ -91,15 +91,15 @@ Ossian:
         - `Team_Attributes`
         - `Country`
         - `League`
-- [ ] Preparar los tres dataframes que se usaran para la generacion de graficos
-    - [ ] df_player_latest
-    - [ ] df_match_base
-    - [ ] df_tean_match
+- [x] Preparar los ~~tres~~dos dataframes que se usaran para la generacion de graficos
+    - [x] df_player_latest
+    - [x] df_match_base
+    - [ ] ~~df_tean_match~~
 - [ ] Hacer los 4 analisis que me tocan:
-    - [ ] 
-    - [ ]
-    - [ ]
-    - [ ]
+    - [x] Analisis 1: Heatmap de correlacion entre atributos de jugadores de campo
+    - [x] Analisis 2: Heatmap de correlacion entre atributos de jugadores porteros
+    - [ ] Analisis 3: Histograma del gap potencial - overall rating
+    - [ ] Analisis 4:
 
 Estefania:
 
